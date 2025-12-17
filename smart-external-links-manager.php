@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Smart External Links Manager
+Plugin Name: External Links Security Manager
 Description: Automatically adds secure attributes to external links in post content.
 Version: 1.0.0
 Author: Gauri Kaushik
