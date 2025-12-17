@@ -1,4 +1,4 @@
-# Smart External Links Manager
+# External Links Security Manager
 
 A lightweight WordPress plugin that automatically adds secure attributes to external links in post content.
 
