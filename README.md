@@ -1,4 +1,4 @@
-# External Links Security Manager
+# Webtechee External Links Security
 
 A lightweight WordPress plugin that automatically adds secure attributes to external links in post content.
 

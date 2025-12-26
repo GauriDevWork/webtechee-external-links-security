@@ -1,5 +1,5 @@
-=== External Links Security Manager ===
-Contributors: gauri
+=== Webtechee External Links Security ===
+Contributors: gauri87
 Tags: external links, security, seo
 Requires at least: 5.5
 Tested up to: 6.9
